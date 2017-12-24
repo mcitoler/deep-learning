@@ -1,0 +1,22 @@
+# videos
+Interviews/*
+*.mp4
+
+# pycache files
+*.pyc
+
+# data files
+*.zip
+*.h5
+*.csv
+*.mat
+
+# images
+*.jpg
+*.png
+
+# slides
+*.pptx
+
+# script to transform pptx into pdf
+pptx-to-pdf.py
