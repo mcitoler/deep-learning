@@ -6,10 +6,12 @@ Interviews/*
 *.pyc
 
 # data files
+*.gz
 *.zip
 *.h5
 *.csv
 *.mat
+
 
 # images
 *.jpg
